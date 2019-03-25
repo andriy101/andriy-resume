@@ -1,0 +1,29 @@
+{
+  "name": "andriy-resume",
+  "bin": {
+    "andriy-resume": "./index.js"
+  },
+  "version": "1.0.1",
+  "description": "Online resume - Andriy Malish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+		"node": ">=8"
+	},
+  "keywords": [
+    "Andriy Malish",
+    "Resume"
+  ],
+  "author": {
+    "name": "Andriy Malish",
+    "email": "andriy101@gmail.com",
+    "url": "https://www.linkedin.com/in/andriymalish/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.2.2"
+  }
+}

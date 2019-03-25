@@ -1,0 +1,85 @@
+{
+  "Experience": [
+    {
+      "company": "ECI Telecom",
+      "title": "Senior Angular / Node SW web developer",
+      "location": "Beer Sheva, Gev Yam",
+      "years": "2015 - till now"
+    },
+    {
+      "company": "Sergata",
+      "title": "Senior PHP / Drupal developer",
+      "location": "Ramat-Gan",
+      "years": "2014"
+    },
+    {
+      "company": "Linnovate LTD",
+      "title": "Senior PHP / Drupal developer",
+      "location": "Rehovot, Bney Brak",
+      "years": "2009 - 2014"
+    },
+    {
+      "company": "CodeOasis LTD",
+      "title": "PHP / WEB developer",
+      "location": "Mitcpe Ramon",
+      "years": "2007 - 2009"
+    }
+  ],
+  "Education": [
+    {
+      "institution": "The Open University of Israel",
+      "description": "BA in General Sciences, majoring in Computer Science",
+      "years": "2002 - 2007"
+    },
+    {
+      "institution": "st. Vincent College, Latrobe, PA, USA",
+      "description": "1 semester of Philosophy and Religious meaning study",
+      "years": "2000"
+    },
+    {
+      "institution": "Politechnical Institute, Lviv, Ukraine",
+      "description": "Surveying Engineering - not completed, attended for 3 years",
+      "years": "1991 - 1994"
+    },
+    {
+      "institution": "Soviet secondary school No.2, Ulan-Bator, Mongolia",
+      "description": "School graduate",
+      "years": "1991"
+    }
+  ],
+  "Teck stack": [
+    "HTML / JS / CSS",
+    "ANGULARJS / ANGULAR / NODE",
+    "DRUPAL / PHP / MYSQL",
+    "LINUX / DOCKERS"
+  ],
+  "Languages": [
+    "Russian",
+    "Ukrainian",
+    "English",
+    "Hebrew",
+    "Polish"
+  ],
+  "Public profiles": [
+    {
+      "name": "Git Hub",
+      "link": "https://github.com/andriy101"
+    },
+    {
+      "name": "StackOverflow",
+      "link": "https://stackoverflow.com/users/3244064/andriy?tab=profile"
+    },
+    {
+      "name": "LinkedIN",
+      "link": "https://www.linkedin.com/in/andriymalish/"
+    },
+    {
+      "name": "NPM",
+      "link": "https://www.npmjs.com/settings/balcheer/packages"
+    },
+    {
+      "name": "Email",
+      "link": "Please check package.json"
+    }
+  ]
+}
