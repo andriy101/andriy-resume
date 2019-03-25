@@ -3,8 +3,12 @@
   "bin": {
     "andriy-resume": "./index.js"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Online resume - Andriy Malish",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andriy101/andriy-resume.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
