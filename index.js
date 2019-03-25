@@ -20,14 +20,14 @@ const resumePrompts = {
 };
 
 function main() {
-  const greeting = 'Hello, my name is Andriy Malish and welcome to my resume\n';
+  const greeting = 'Hello, my name is Andriy Malish, welcome to my resume\n';
   if (process.stdout.columns > 111) {
     let index = 0;
     const interval = setInterval(_ => {
       console.clear(); 
       console.log(chalk.yellow(names[++index % 2]));
 
-      if (index === 20) {
+      if (index === 14) {
         clearInterval(interval);
         console.log(greeting);
         resumeHandler();

@@ -3,7 +3,7 @@
   "bin": {
     "andriy-resume": "./index.js"
   },
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Online resume - Andriy Malish",
   "repository": {
     "type": "git",
