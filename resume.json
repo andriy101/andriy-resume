@@ -1,10 +1,22 @@
 {
   "Experience": [
     {
-      "company": "ECI Telecom",
+      "company": "Microsoft",
+      "title": "Senior SW Engineer",
+      "location": "Herzeliya, Beer Sheva, Gev Yam",
+      "years": "2022 - till now"
+    },
+    {
+      "company": "SAP (GIGYA)",
+      "title": "Senior Angular / Node SW web developer",
+      "location": "Tel Aviv",
+      "years": "2020 - 2021"
+    },
+    {
+      "company": "ECI Telecom (currently RIBBON)",
       "title": "Senior Angular / Node SW web developer",
       "location": "Beer Sheva, Gev Yam",
-      "years": "2015 - till now"
+      "years": "2015 - 2020"
     },
     {
       "company": "Sergata",
